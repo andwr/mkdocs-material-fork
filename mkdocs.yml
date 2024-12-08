@@ -71,23 +71,26 @@ plugins:
       input_extensions: 'puml' # comma separated list of extensions to parse, by default every file is parsed
   - i18n:
       docs_structure: suffix
+      reconfigure_material: true
+      reconfigure_search: true
       languages:
         - locale: ru
           default: true
           name: Русский
           build: true
+          site_name: "MkDocs Material (RU)"
         - locale: en
           name: English
           build: true
+          site_name: "MkDocs Material (EN)"
       nav_translations:
-        en:
-          О проекте: About
-          Версионирование: Versioning
-          Локализация: Localization
-          Разметка: Markdown
-          Поиск: Search
-          Обратная связь: Feedback
-          Аналитика: Analytics
-          Кастомизация: Customization
-          Плагины: Plugins
-          Внесение изменений: Process
+        О проекте: About
+        Версионирование: Versioning
+        Локализация: Localization
+        Разметка: Markdown
+        Поиск: Search
+        Обратная связь: Feedback
+        Аналитика: Analytics
+        Кастомизация: Customization
+        Плагины: Plugins
+        Внесение изменений: Process
