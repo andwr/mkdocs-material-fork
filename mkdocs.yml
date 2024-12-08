@@ -83,14 +83,14 @@ plugins:
           name: English
           build: true
           site_name: "MkDocs Material (EN)"
-      nav_translations:
-        О проекте: About
-        Версионирование: Versioning
-        Локализация: Localization
-        Разметка: Markdown
-        Поиск: Search
-        Обратная связь: Feedback
-        Аналитика: Analytics
-        Кастомизация: Customization
-        Плагины: Plugins
-        Внесение изменений: Process
+          nav_translations:
+            О проекте: About
+            Версионирование: Versioning
+            Локализация: Localization
+            Разметка: Markdown
+            Поиск: Search
+            Обратная связь: Feedback
+            Аналитика: Analytics
+            Кастомизация: Customization
+            Плагины: Plugins
+            Внесение изменений: Process
