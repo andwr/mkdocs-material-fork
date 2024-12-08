@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="None"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+    </url>
+    <url>
+        <loc>Noneanalytics/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneanalytics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/analytics/"/>
+    </url>
+    <url>
+        <loc>Nonecustomization/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Nonecustomization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/customization/"/>
+    </url>
+    <url>
+        <loc>Nonefeedback/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Nonefeedback/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/feedback/"/>
+    </url>
+    <url>
+        <loc>Nonelocalization/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Nonelocalization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/localization/"/>
+    </url>
+    <url>
+        <loc>Nonemarkdown/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Nonemarkdown/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/markdown/"/>
+    </url>
+    <url>
+        <loc>Noneopenapi-redoc-fw-nav/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-redoc-fw-nav/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-redoc-fw-nav/"/>
+    </url>
+    <url>
+        <loc>Noneopenapi-redoc-fw/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-redoc-fw/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-redoc-fw/"/>
+    </url>
+    <url>
+        <loc>Noneopenapi-redoc-wide/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-redoc-wide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-redoc-wide/"/>
+    </url>
+    <url>
+        <loc>Noneopenapi-redoc/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-redoc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-redoc/"/>
+    </url>
+    <url>
+        <loc>Noneopenapi-stoplight-css/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-stoplight-css/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-stoplight-css/"/>
+    </url>
+    <url>
+        <loc>Noneopenapi-stoplight-fw-nav/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-stoplight-fw-nav/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-stoplight-fw-nav/"/>
+    </url>
+    <url>
+        <loc>Noneopenapi-stoplight-fw/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-stoplight-fw/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-stoplight-fw/"/>
+    </url>
+    <url>
+        <loc>Noneopenapi-stoplight-wide/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-stoplight-wide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-stoplight-wide/"/>
+    </url>
+    <url>
+        <loc>Noneopenapi-stoplight/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-stoplight/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-stoplight/"/>
+    </url>
+    <url>
+        <loc>Noneopenapi/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi/"/>
+    </url>
+    <url>
+        <loc>Noneplantuml/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneplantuml/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/plantuml/"/>
+    </url>
+    <url>
+        <loc>Noneplugins/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneplugins/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/plugins/"/>
+    </url>
+    <url>
+        <loc>Nonereview/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Nonereview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/review/"/>
+    </url>
+    <url>
+        <loc>Nonesearch/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Nonesearch/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/search/"/>
+    </url>
+    <url>
+        <loc>Noneversioning/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneversioning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/versioning/"/>
+    </url>
+    <url>
+        <loc>Noneen/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="None"/>
+    </url>
+    <url>
+        <loc>Noneen/analytics/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/analytics/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneanalytics/"/>
+    </url>
+    <url>
+        <loc>Noneen/customization/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/customization/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Nonecustomization/"/>
+    </url>
+    <url>
+        <loc>Noneen/feedback/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/feedback/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Nonefeedback/"/>
+    </url>
+    <url>
+        <loc>Noneen/localization/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/localization/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Nonelocalization/"/>
+    </url>
+    <url>
+        <loc>Noneen/markdown/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/markdown/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Nonemarkdown/"/>
+    </url>
+    <url>
+        <loc>Noneen/openapi-redoc-fw-nav/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-redoc-fw-nav/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-redoc-fw-nav/"/>
+    </url>
+    <url>
+        <loc>Noneen/openapi-redoc-fw/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-redoc-fw/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-redoc-fw/"/>
+    </url>
+    <url>
+        <loc>Noneen/openapi-redoc-wide/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-redoc-wide/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-redoc-wide/"/>
+    </url>
+    <url>
+        <loc>Noneen/openapi-redoc/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-redoc/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-redoc/"/>
+    </url>
+    <url>
+        <loc>Noneen/openapi-stoplight-css/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-stoplight-css/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-stoplight-css/"/>
+    </url>
+    <url>
+        <loc>Noneen/openapi-stoplight-fw-nav/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-stoplight-fw-nav/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-stoplight-fw-nav/"/>
+    </url>
+    <url>
+        <loc>Noneen/openapi-stoplight-fw/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-stoplight-fw/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-stoplight-fw/"/>
+    </url>
+    <url>
+        <loc>Noneen/openapi-stoplight-wide/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-stoplight-wide/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-stoplight-wide/"/>
+    </url>
+    <url>
+        <loc>Noneen/openapi-stoplight/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi-stoplight/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi-stoplight/"/>
+    </url>
+    <url>
+        <loc>Noneen/openapi/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/openapi/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneopenapi/"/>
+    </url>
+    <url>
+        <loc>Noneen/plantuml/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/plantuml/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneplantuml/"/>
+    </url>
+    <url>
+        <loc>Noneen/plugins/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/plugins/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneplugins/"/>
+    </url>
+    <url>
+        <loc>Noneen/review/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/review/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Nonereview/"/>
+    </url>
+    <url>
+        <loc>Noneen/search/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/search/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Nonesearch/"/>
+    </url>
+    <url>
+        <loc>Noneen/versioning/</loc>
+        <lastmod>2024-12-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/versioning/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneversioning/"/>
+    </url>
+</urlset>
