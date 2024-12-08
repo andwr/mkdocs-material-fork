@@ -55,7 +55,7 @@ extra:
   homepage: https://andwr.github.io/mkdocs-material-fork/
   analytics:
     provider: google
-    property: GTM-MHCKR6VJ
+    property: G-KFF037QBPH
 plugins:
   - search
   - render_swagger
