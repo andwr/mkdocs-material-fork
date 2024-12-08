@@ -79,7 +79,7 @@ plugins:
         - locale: en
           name: English
           build: true
-      nav_translation:
+      nav_translations:
         en:
           О проекте: About
           Версионирование: Versioning
