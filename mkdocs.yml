@@ -70,19 +70,11 @@ plugins:
       input_folder: 'src'
       input_extensions: 'puml' # comma separated list of extensions to parse, by default every file is parsed
   - i18n:
-      default_language: ru
-      default_language_only: false
-      search_reconfigure: true
+      default_language: 'ru'
       languages:
-        ru:
-          name: Русский
-          build: true
-          site_name: "MkDocs Material"
-        en:
-          name: English
-          build: true
-          site_name: "MkDocs Material (EN)"
-      nav_translations:
+        ru: "Русский"
+        en: "English"
+      translate_nav:
         en:
           О проекте: About
           Версионирование: Versioning
