@@ -70,11 +70,16 @@ plugins:
       input_folder: 'src'
       input_extensions: 'puml' # comma separated list of extensions to parse, by default every file is parsed
   - i18n:
-      default_language: 'ru'
+      docs_structure: suffix
       languages:
-        ru: "Русский"
-        en: "English"
-      translate_nav:
+        - locale: ru
+          default: true
+          name: Русский
+          build: true
+        - locale: en
+          name: English
+          build: true
+      nav_translation:
         en:
           О проекте: About
           Версионирование: Versioning
