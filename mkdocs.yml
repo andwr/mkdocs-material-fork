@@ -1,6 +1,6 @@
 site_name: MkDocs Material
-repo_url: https://github.com/koshelekapi/mkdocs-material
-repo_name: koshelekapi/mkdocs-material
+repo_url: https://github.com/andwr/mkdocs-material-fork
+repo_name: andwr/mkdocs-material-fork
 edit_uri: edit/main/docs
 theme:
   name: material
@@ -52,7 +52,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 extra:
-  homepage: https://koshelekapi.github.io/mkdocs-material/
+  homepage: https://andwr.github.io/mkdocs-material-fork/
   analytics:
     provider: google
     property: GTM-MHCKR6VJ
